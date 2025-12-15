@@ -3,7 +3,7 @@
 Développeur en formation, actuellement engagé dans une reconversion vers le **développement web et l’IA**.  
 Je construis des projets concrets pour apprendre, comprendre et progresser pas à pas.
 
----
+
 
 ## 🙋‍♂️ À propos de moi
 
@@ -13,7 +13,7 @@ J’aime apprendre en pratiquant, expérimenter, me tromper, corriger, et améli
 
 > “Comprendre ce que je fais, pas seulement faire fonctionner le code.”
 
----
+
 
 ## 🛠️ Ce sur quoi je travaille
 
@@ -23,7 +23,7 @@ J’aime apprendre en pratiquant, expérimenter, me tromper, corriger, et améli
 - Notions d’UX et d’accessibilité
 - Projets personnels pour monter en compétences
 
----
+
 
 ## 📂 Projets récents
 
@@ -34,7 +34,6 @@ J’aime apprendre en pratiquant, expérimenter, me tromper, corriger, et améli
 - **Omnis Bibliotheca**  
   Un portfolio thématique en cours de création, mêlant sur l'univers de Warhammer 40K
 
----
 
 ## 📬 Me contacter
 
@@ -42,7 +41,7 @@ J’aime apprendre en pratiquant, expérimenter, me tromper, corriger, et améli
 - 💼 LinkedIn : www.linkedin.com/in/romain-massacrier-a759601b7 
 - 🐙 GitHub : https://github.com/Romain-massacrier  
 
----
+
 
 ## 📸 À propos de ce profil
 
