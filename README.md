@@ -1,11 +1,11 @@
-# 👋 Bonjour, je m’appelle Romain
+👋 Bonjour, je m’appelle Romain
 
 Développeur en formation, actuellement engagé dans une reconversion vers le **développement web et l’IA**.  
 Je construis des projets concrets pour apprendre, comprendre et progresser pas à pas.
 
 
 
-## 🙋‍♂️ À propos de moi
+🙋‍♂️ À propos de moi
 
 Après un parcours professionnel différent, j’ai choisi de me reconvertir dans le développement, un domaine qui me permet d’allier logique, créativité et résolution de problèmes.
 
