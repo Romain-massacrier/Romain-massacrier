@@ -4,7 +4,7 @@ Je suis actuellement en formation **Développeur Avancé & IA** au **Campus Num�
 
 Ce GitHub regroupe mes **projets**, **exercices de formation** et **expérimentations personnelles**, réalisés avec une logique de progression continue, de bonnes pratiques et de qualité de code.
 
-Objectifs
+**Objectifs**
 - Mettre en pratique mes compétences en situation professionnelle
 - Approfondir le développement web, logiciel et orienté objet
 - Travailler avec des méthodes et outils professionnels
@@ -12,7 +12,7 @@ Objectifs
 
 ---
 
-Concepts & Méthodologies
+**Concepts & Méthodologies**
 
 ![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Algorithmique](https://img.shields.io/badge/Algorithmique-000000?style=for-the-badge&logo=codeforces&logoColor=white)
@@ -22,7 +22,7 @@ Concepts & Méthodologies
 
 ---
 
-Langages de développement
+**Langages de développement**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,7 +33,7 @@ Langages de développement
 
 ---
 
-Frameworks & Technologies
+**Frameworks & Technologies**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logo)
