@@ -1,10 +1,10 @@
 Bonjour et bienvenue sur mon GitHub
 
-Je suis actuellement en formation **Développeur Avancé & IA** au **Campus Numérique in the Alps**, et je suis à la recherche d’une **alternance** afin de consolider mes compétences techniques et professionnelles au sein d’une équipe de développement.
+Je suis actuellement en formation **Développeur Avancé & IA** au **Campus Numérique in the Alps**, et je suis à la recherche d’une **alternance**qui débute fin Juin 2026 et d'une durée de 10 mois, afin de consolider mes compétences techniques et professionnelles au sein d’une équipe de développement.
 
 Ce GitHub regroupe mes **projets**, **exercices de formation** et **expérimentations personnelles**, réalisés avec une logique de progression continue, de bonnes pratiques et de qualité de code.
 
-#Objectifs
+Objectifs
 - Mettre en pratique mes compétences en situation professionnelle
 - Approfondir le développement web, logiciel et orienté objet
 - Travailler avec des méthodes et outils professionnels
