@@ -1,43 +1,27 @@
-👋 Bonjour, je m’appelle Romain
+👋 Bonjour et bienvenue sur mon GitHub
 
-Développeur en formation, actuellement engagé dans une reconversion vers le **développement web et l’IA**.  
-Je construis des projets concrets pour apprendre, comprendre et progresser pas à pas.
+Je suis actuellement en formation **Développeur Avancé & IA** au **Campus Numérique in the Alps**, et je suis à la recherche d’une **alternance** afin de renforcer mes compétences techniques et professionnelles.
 
+Ce GitHub regroupe mes **projets**, **exercices de formation** et **expérimentations personnelles**, réalisés dans une logique de progression continue, de bonnes pratiques et de qualité de code.
 
-🙋‍♂️ À propos de moi
+### 🎯 Objectifs
+- Mettre en pratique mes compétences en situation réelle
+- Approfondir le développement web et logiciel
+- Travailler avec des outils et méthodes professionnelles (Git, documentation, versioning)
+- Continuer à apprendre et à m’adapter aux besoins d’une équipe technique
 
-Après un parcours professionnel différent, j’ai choisi de me reconvertir dans le développement, un domaine qui me permet d’allier logique, créativité et résolution de problèmes.
+### 🛠️ Technologies & Langages
 
-J’aime apprendre en pratiquant, expérimenter, me tromper, corriger, et améliorer progressivement mes projets.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)
 
-Ce sur quoi je travaille
+### 🔧 Outils
 
-- Développement web (HTML, CSS, JavaScript)
-- Gestion de versions avec Git et GitHub
-- Bases de l’agilité et du travail en équipe
-- Notions d’UX et d’accessibilité
-- Projets personnels pour monter en compétences
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-
-📂 Projets récents
-
-- **Recette Cookies**  
-  Un projet simple pour apprendre Git, les commits, les conflits et le versioning  
-  👉 https://github.com/Romain-massacrier/recette-cookies
-
-- **Omnis Bibliotheca**  
-  Un portfolio thématique en cours de création, mêlant sur l'univers de Warhammer 40K
-
-
-📬 Me contacter
-
-- 📧 Email : romain.massacrier@le-campus-numerique.fr 
-- 💼 LinkedIn : www.linkedin.com/in/romain-massacrier-a759601b7 
-- 🐙 GitHub : https://github.com/Romain-massacrier  
-
-
-
-📸 À propos de ce profil
-
-Ce README me sert de carte de visite et évoluera au fil de ma formation et de mes projets.
+Ce GitHub reflète mon parcours, mon sérieux et mon envie de progresser dans un environnement professionnel.
